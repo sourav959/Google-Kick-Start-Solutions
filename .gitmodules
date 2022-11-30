@@ -1,3 +1,21 @@
 [submodule "2022/Google-Kick-Start-Round-A-2022"]
 	path = 2022/Google-Kick-Start-Round-A-2022
 	url = https://github.com/sourav959/Google-Kick-Start-Round-A-2022.git
+[submodule "2022/Google-Kick-Start-Round-B-2022"]
+	path = 2022/Google-Kick-Start-Round-B-2022
+	url = https://github.com/sourav959/Google-Kick-Start-Round-B-2022.git
+[submodule "2022/Google-Kick-Start-Round-C-2022"]
+	path = 2022/Google-Kick-Start-Round-C-2022
+	url = https://github.com/sourav959/Google-Kick-Start-Round-C-2022.git
+[submodule "2022/Google-Kick-Start-Round-D-2022"]
+	path = 2022/Google-Kick-Start-Round-D-2022
+	url = https://github.com/sourav959/Google-Kick-Start-Round-D-2022.git
+[submodule "2022/Google-Kick-Start-Round-E-2022"]
+	path = 2022/Google-Kick-Start-Round-E-2022
+	url = https://github.com/sourav959/Google-Kick-Start-Round-E-2022.git
+[submodule "2022/Google-Kick-Start-Round-F-2022"]
+	path = 2022/Google-Kick-Start-Round-F-2022
+	url = https://github.com/sourav959/Google-Kick-Start-Round-F-2022.git
+[submodule "2022/Google-Kick-Start-Round-G-2022"]
+	path = 2022/Google-Kick-Start-Round-G-2022
+	url = https://github.com/sourav959/Google-Kick-Start-Round-G-2022.git
