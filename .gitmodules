@@ -19,3 +19,18 @@
 [submodule "2022/Google-Kick-Start-Round-G-2022"]
 	path = 2022/Google-Kick-Start-Round-G-2022
 	url = https://github.com/sourav959/Google-Kick-Start-Round-G-2022.git
+[submodule "2021/Google-Kickstart-Round-D-Solution-1"]
+	path = 2021/Google-Kickstart-Round-D-Solution-1
+	url = https://github.com/sourav959/Google-Kickstart-Round-D-Solution-1.git
+[submodule "2021/Google-Kick-Start-Round-E"]
+	path = 2021/Google-Kick-Start-Round-E
+	url = https://github.com/sourav959/Google-Kick-Start-Round-E.git
+[submodule "2021/Google-Kick-Start-Round-F"]
+	path = 2021/Google-Kick-Start-Round-F
+	url = https://github.com/sourav959/Google-Kick-Start-Round-F.git
+[submodule "2021/Google-Kick-Start-Round-G-2021"]
+	path = 2021/Google-Kick-Start-Round-G-2021
+	url = https://github.com/sourav959/Google-Kick-Start-Round-G-2021.git
+[submodule "2021/Google-Kick-Start-Round-H-2021"]
+	path = 2021/Google-Kick-Start-Round-H-2021
+	url = https://github.com/sourav959/Google-Kick-Start-Round-H-2021.git
